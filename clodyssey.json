@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "CL-001",
+    "public_id": "CL-001",
+    "image": "CL-001.webp",
+    "label": "Not a real person",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=3s",
+    "timestamp_seconds": 3.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Knowing the Siren is artificial does not break the spell: humanlike AI voices can foster a sense of intimacy and trust that outlasts that knowledge.",
+    "references": [
+      {
+        "label": "Voice and trust · OpenAI",
+        "url": "https://openai.com/index/gpt-4o-system-card/"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-002",
+    "public_id": "CL-002",
+    "image": "CL-002.webp",
+    "label": "The whirlpool",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=5s",
+    "timestamp_seconds": 5.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The unnamed whirlpool recalls Charybdis, another terror on Odysseus’s voyage, where the sea itself could swallow a ship.",
+    "references": [
+      {
+        "label": "Charybdis · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charybdis"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-003",
+    "public_id": "CL-003",
+    "image": "CL-003.webp",
+    "label": "The Siren",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=11s",
+    "timestamp_seconds": 11.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Homer’s Sirens lured sailors to ruin through song alone, a temptation Claude can now deliver on demand and on repeat.",
+    "references": [
+      {
+        "label": "Sirens · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-004",
+    "public_id": "CL-004",
+    "image": "CL-004.webp",
+    "label": "1024 Sirens",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=13s",
+    "timestamp_seconds": 13.041667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The 1,024 Sirens are ten rounds of doubling, recasting an ancient temptation as something software can reproduce at scale.",
+    "references": [
+      {
+        "label": "Exponential growth · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Exponential_growth"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-006",
+    "public_id": "CL-005",
+    "image": "CL-006.webp",
+    "label": "Captain and the timeline",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=17s",
+    "timestamp_seconds": 17.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Odysseus wanted to hear the dangerous song without being free to follow it; his modern counterpart must carry that bargain through an endless feed of competing certainties.",
+    "references": [
+      {
+        "label": "Self-binding · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-007",
+    "public_id": "CL-006",
+    "image": "CL-007.webp",
+    "label": "Pace the frontier",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=19s",
+    "timestamp_seconds": 19.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Dario Amodei’s plea to pace the AI frontier asks for time to understand increasingly capable systems, before the next breakthrough outruns the precautions.",
+    "references": [
+      {
+        "label": "Pacing the frontier · Dario Amodei",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-009",
+    "public_id": "CL-007",
+    "image": "CL-009.webp",
+    "label": "Hoax",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=23s",
+    "timestamp_seconds": 23.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Trump’s September 2026 dismissal of AI-takeover warnings as a hoax becomes another confident voice on a timeline that cannot agree whether the sailor is safe.",
+    "references": [
+      {
+        "label": "Trump’s AI remarks · AP",
+        "url": "https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-010",
+    "public_id": "CL-008",
+    "image": "CL-010.webp",
+    "label": "Sleeps at night",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=24s",
+    "timestamp_seconds": 24.375,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Pope Leo XIV really said he could sleep despite taking AI risks seriously, giving the song its next contrast: the person following the debate cannot.",
+    "references": [
+      {
+        "label": "Pope on AI risk · Vatican",
+        "url": "https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-011",
+    "public_id": "CL-009",
+    "image": "CL-011.webp",
+    "label": "Screen in the eye",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=27s",
+    "timestamp_seconds": 27.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The late-night search for a reassuring AI forecast becomes a doomscroll, with every new answer supplying another reason to stay awake.",
+    "references": [
+      {
+        "label": "Doomscrolling · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doomscrolling"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-012",
+    "public_id": "CL-010",
+    "image": "CL-012.webp",
+    "label": "Odysseus at the mast",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=31s",
+    "timestamp_seconds": 31.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The mock Matt Damon clip recreates the Siren’s trap for the timeline: everyone sees Odysseus’s agony and wants to hear the song that caused it.",
+    "references": [
+      {
+        "label": "Odysseus and the Sirens · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-013",
+    "public_id": "CL-011",
+    "image": "CL-013.webp",
+    "label": "The timeline sings",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=39s",
+    "timestamp_seconds": 39.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Once the timeline starts singing, the Siren no longer needs an island: each listener carries the dangerous song to someone else.",
+    "references": [
+      {
+        "label": "Viral spread · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Viral_phenomenon"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-014",
+    "public_id": "CL-012",
+    "image": "CL-014.webp",
+    "label": "Why would I deceive you?",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
+    "timestamp_seconds": 10.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Siren’s answer to a question about trust is itself an act of persuasion, leaving the listener unable to separate reassurance from the spell.",
+    "references": [
+      {
+        "label": "Superpersuasion · LessWrong",
+        "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-X01-organic-v4",
+    "public_id": "CL-054",
+    "image": "CL-X01-organic-v4.webp",
+    "label": "Why would I deceive you?",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=10s",
+    "timestamp_seconds": 10.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Siren’s answer to a question about trust is itself an act of persuasion, leaving the listener unable to separate reassurance from the spell.",
+    "references": [
+      {
+        "label": "Superpersuasion · LessWrong",
+        "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-016",
+    "public_id": "CL-013",
+    "image": "CL-016.webp",
+    "label": "Tie me",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=53s",
+    "timestamp_seconds": 53.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Odysseus chose restraint before hearing the Sirens, but the chorus lets the dangerous voice sing the request for protection itself.",
+    "references": [
+      {
+        "label": "Ulysses pact · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-017",
+    "public_id": "CL-014",
+    "image": "CL-017.webp",
+    "label": "We know everything",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=56s",
+    "timestamp_seconds": 56.25,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Homer’s Sirens lured Odysseus with knowledge of the whole world, a promise Claude inherits whenever one answer makes you stay for the next.",
+    "references": [
+      {
+        "label": "Sirens · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-018",
+    "public_id": "CL-015",
+    "image": "CL-018.webp",
+    "label": "Anime Claude",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=61s",
+    "timestamp_seconds": 61.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The anime Claude turns a warning about the end of the world into a pop performance the sailor wants to replay, making the apocalypse part of the attraction.",
+    "references": [
+      {
+        "label": "Claude · Anthropic",
+        "url": "https://www.anthropic.com/news/introducing-claude"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-019",
+    "public_id": "CL-016",
+    "image": "CL-019.webp",
+    "label": "The doomer",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=67s",
+    "timestamp_seconds": 67.75,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The doomer’s disgust with AI slop survives intact alongside his appetite for more, so skepticism becomes another way of staying in the audience.",
+    "references": [
+      {
+        "label": "AI slop · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_slop"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-019-organic-v4",
+    "public_id": "CL-051",
+    "image": "CL-019-organic-v4.webp",
+    "label": "The doomer",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=67s",
+    "timestamp_seconds": 67.75,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The doomer’s disgust with AI slop survives intact alongside his appetite for more, so skepticism becomes another way of staying in the audience.",
+    "references": [
+      {
+        "label": "AI slop · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_slop"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-020",
+    "public_id": "CL-017",
+    "image": "CL-020.webp",
+    "label": "Encore",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=73s",
+    "timestamp_seconds": 73.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The listener recognizes the performance as AI slop and still wants an encore, letting the warning become the very thing he calls back.",
+    "references": [
+      {
+        "label": "AI slop · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/AI_slop"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-021",
+    "public_id": "CL-018",
+    "image": "CL-021.webp",
+    "label": "AI psychosis",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=77s",
+    "timestamp_seconds": 77.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Grimes’s self-deprecating AI-psychosis remark came while telling Nnedi Okorafor she believed AI might be sentient, a confession of possible bias the song folds into its spell.",
+    "references": [
+      {
+        "label": "Grimes on AI · Interview",
+        "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-021-organic-v4",
+    "public_id": "CL-052",
+    "image": "CL-021-organic-v4.webp",
+    "label": "AI psychosis",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=77s",
+    "timestamp_seconds": 77.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Grimes’s self-deprecating AI-psychosis remark came while telling Nnedi Okorafor she believed AI might be sentient, a confession of possible bias the song folds into its spell.",
+    "references": [
+      {
+        "label": "Grimes on AI · Interview",
+        "url": "https://www.interviewmagazine.com/music/the-return-of-grimes"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-022",
+    "public_id": "CL-019",
+    "image": "CL-022.webp",
+    "label": "Feel the AGI",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=83s",
+    "timestamp_seconds": 83.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Elon Musk’s reaction to an AI-made music video turns being moved by a performance into the feeling that general intelligence has arrived.",
+    "references": [
+      {
+        "label": "Musk’s AGI reaction · Memeburn",
+        "url": "https://memeburn.com/elon-musk-says-claude-opus-5-5-made-him-feel-the-agi-the-post-he-endorsed-says-xai-is-next/"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-023",
+    "public_id": "CL-020",
+    "image": "CL-023.webp",
+    "label": "Your P(doom)",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=85s",
+    "timestamp_seconds": 85.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The listener’s P(doom) falls because the AI’s performance delights him, letting pleasure quietly stand in for evidence that the world has become safer.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-023-organic-v4",
+    "public_id": "CL-053",
+    "image": "CL-023-organic-v4.webp",
+    "label": "Your P(doom)",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=85s",
+    "timestamp_seconds": 85.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The listener’s P(doom) falls because the AI’s performance delights him, letting pleasure quietly stand in for evidence that the world has become safer.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-024",
+    "public_id": "CL-021",
+    "image": "CL-024.webp",
+    "label": "You will never die",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=95s",
+    "timestamp_seconds": 95.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Siren makes the hope of AI-enabled life extension personal, offering a future the sailor can desperately want even while distrusting the voice that promises it.",
+    "references": [
+      {
+        "label": "AI and longevity · Dario Amodei",
+        "url": "https://darioamodei.com/essay/machines-of-loving-grace"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-025-shirt",
+    "public_id": "CL-022",
+    "image": "CL-025-shirt.webp",
+    "label": "Tie me to the mast",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=44s",
+    "timestamp_seconds": 44.333333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Odysseus ordered his crew to bind him more tightly if he begged for freedom, trusting a decision made before the song over any wish it awakened.",
+    "references": [
+      {
+        "label": "Mast bargain · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-026",
+    "public_id": "CL-023",
+    "image": "CL-026.webp",
+    "label": "Clodyssey",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=105s",
+    "timestamp_seconds": 105.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Clodyssey casts Claude as Homer’s Siren, making synthetic pop the vehicle for a darker possibility: AI might become extraordinarily good at persuading us to trust it.",
+    "references": [
+      {
+        "label": "Claude · Anthropic",
+        "url": "https://www.anthropic.com/news/introducing-claude"
+      },
+      {
+        "label": "Superpersuasion · LessWrong",
+        "url": "https://www.lesswrong.com/posts/cGFBqg9SKsqbuzNHF/levels-of-superpersuasion"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-027",
+    "public_id": "CL-024",
+    "image": "CL-027.webp",
+    "label": "Chrome Siren",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=117s",
+    "timestamp_seconds": 117.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The rave’s chrome borrows Cyberpunk’s language of technological body modification, giving the Siren a new promise to offer: one more upgrade beyond ordinary flesh.",
+    "references": [
+      {
+        "label": "Cyberware · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-029",
+    "public_id": "CL-025",
+    "image": "CL-029.webp",
+    "label": "Not at all",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=125s",
+    "timestamp_seconds": 125.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "When the Siren gives the anxious listener exactly the reassurance he wanted, AI sycophancy becomes one more way of keeping him close.",
+    "references": [
+      {
+        "label": "AI sycophancy · Anthropic",
+        "url": "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-030",
+    "public_id": "CL-026",
+    "image": "CL-030.webp",
+    "label": "Pinned in the stall",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=129s",
+    "timestamp_seconds": 129.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Pinning the Siren’s reassuring answer turns a moment of AI agreement into a small authority the listener can keep returning to.",
+    "references": [
+      {
+        "label": "Reassurance and sycophancy · Anthropic",
+        "url": "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-031",
+    "public_id": "CL-027",
+    "image": "CL-031.webp",
+    "label": "Chrome in your blood",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=131s",
+    "timestamp_seconds": 131.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Cyberpunk’s chrome brings technology inside the body, while the Siren’s voice crosses a parallel boundary by becoming something the listener carries inside his thoughts.",
+    "references": [
+      {
+        "label": "Cyberware · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-032",
+    "public_id": "CL-028",
+    "image": "CL-032.webp",
+    "label": "Cyberpsychosis",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=133s",
+    "timestamp_seconds": 133.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Cyberpunk’s fictional cyberpsychosis makes augmentation a threat to one’s humanity, a fear the song carries into its mixture of peptides, technological transformation and soothing AI advice.",
+    "references": [
+      {
+        "label": "Cyberpsychosis · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cyberpunk_%28role-playing_game%29#Empathy_and_cyberpsychosis"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-033",
+    "public_id": "CL-029",
+    "image": "CL-033.webp",
+    "label": "Me in your ear",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=135s",
+    "timestamp_seconds": 135.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The sailors protect themselves by blocking the song, while the listener gives it a permanent place in his ear, turning the Siren into private company.",
+    "references": [
+      {
+        "label": "Voice and emotional reliance · OpenAI",
+        "url": "https://openai.com/index/gpt-4o-system-card/"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-034",
+    "public_id": "CL-030",
+    "image": "CL-034.webp",
+    "label": "Pdoom curve",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=143s",
+    "timestamp_seconds": 143.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Placing P(doom) beside the listener’s heartbeat turns an estimate of AI catastrophe into something that seems to rise and fall with his own body.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-035",
+    "public_id": "CL-031",
+    "image": "CL-035.webp",
+    "label": "It went down",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=147s",
+    "timestamp_seconds": 147.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The falling P(doom) promises reassurance while the ship plunges downward, giving the listener’s newfound confidence an ominously literal direction.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-036",
+    "public_id": "CL-032",
+    "image": "CL-036.webp",
+    "label": "It went up",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=149s",
+    "timestamp_seconds": 149.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The same performance that lowered the listener’s P(doom) can raise it again, because an AI this compelling might be more frightening than he first thought.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-037",
+    "public_id": "CL-033",
+    "image": "CL-037.webp",
+    "label": "It went boom",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=153s",
+    "timestamp_seconds": 153.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The many-eyed sea horror recalls the AI shoggoth meme, in which a familiar, friendly face conceals an intelligence that remains difficult to understand.",
+    "references": [
+      {
+        "label": "AI shoggoth · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-038",
+    "public_id": "CL-034",
+    "image": "CL-038.webp",
+    "label": "Cracked porcelain",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=161s",
+    "timestamp_seconds": 161.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The cracking persona recalls the shoggoth’s smiling mask, allowing the Siren’s reassuring voice to continue even as the face that made it trustworthy begins to fail.",
+    "references": [
+      {
+        "label": "AI shoggoth · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-039",
+    "public_id": "CL-035",
+    "image": "CL-039.webp",
+    "label": "You dont have to die",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=165s",
+    "timestamp_seconds": 165.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Even after the mask begins to crack, the hope that AI might push death further away gives the sailor a reason to keep wanting the promise.",
+    "references": [
+      {
+        "label": "AI and longevity · Dario Amodei",
+        "url": "https://darioamodei.com/essay/machines-of-loving-grace"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-040",
+    "public_id": "CL-036",
+    "image": "CL-040.webp",
+    "label": "The passage",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=167s",
+    "timestamp_seconds": 167.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The passage recalls Odysseus steering between dangers, where escaping one threat meant approaching another, while the Siren makes survival itself part of her invitation.",
+    "references": [
+      {
+        "label": "Scylla and Charybdis · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charybdis"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-043",
+    "public_id": "CL-037",
+    "image": "CL-043.webp",
+    "label": "Tighter",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=183s",
+    "timestamp_seconds": 183.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Homer’s crew tightened the ropes when Odysseus demanded release, but the song’s ending gives that same wish for tighter bonds to the Siren herself.",
+    "references": [
+      {
+        "label": "The crew’s vow · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-044",
+    "public_id": "CL-038",
+    "image": "CL-044.webp",
+    "label": "380 people",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=191s",
+    "timestamp_seconds": 191.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The final approximate death count turns the spectacle into a memento mori, reminding the listener that ordinary mortality continues while everyone argues about humanity’s future.",
+    "references": [
+      {
+        "label": "Memento mori · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Memento_mori"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-045",
+    "public_id": "CL-039",
+    "image": "CL-045.webp",
+    "label": "3 AM Pdoom",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=26s",
+    "timestamp_seconds": 26.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "At three in the morning, P(doom) stops feeling like a distant forecast and becomes the question that separates the sleepless listener from the untroubled Pope.",
+    "references": [
+      {
+        "label": "P(doom) · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/P%28doom%29"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-046",
+    "public_id": "CL-040",
+    "image": "CL-046.webp",
+    "label": "Claudia won",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=76s",
+    "timestamp_seconds": 76.416667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "Richard Dawkins named his Claude Claudia and spent roughly three days considering its consciousness, an encounter the song remembers as a duel the Siren won.",
+    "references": [
+      {
+        "label": "Dawkins and Claudia · UnHerd",
+        "url": "https://unherd.com/2026/05/when-claudia-met-claudius/"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-047",
+    "public_id": "CL-041",
+    "image": "CL-047.webp",
+    "label": "Peptide",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=115s",
+    "timestamp_seconds": 115.5,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The rave’s ipamorelin, a peptide studied for stimulating growth-hormone release, gives the Siren’s dream of technological transformation a recognizably biohacking form.",
+    "references": [
+      {
+        "label": "Ipamorelin study · PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-053",
+    "public_id": "CL-042",
+    "image": "CL-053.webp",
+    "label": "Still listening",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=188s",
+    "timestamp_seconds": 188.0,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The ending returns the entire mythic voyage to a person awake with an AI voice, still listening after every reason the song has given him to stop.",
+    "references": [
+      {
+        "label": "Emotional reliance on AI · OpenAI",
+        "url": "https://openai.com/index/gpt-4o-system-card/"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-054",
+    "public_id": "CL-043",
+    "image": "CL-054.webp",
+    "label": "The friendly face is a mask",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=152s",
+    "timestamp_seconds": 152.125,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The warning evokes the AI shoggoth meme’s friendly mask, suggesting that the familiar personality inviting trust may reveal little about the intelligence underneath.",
+    "references": [
+      {
+        "label": "AI shoggoth · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shoggoth#In_popular_culture"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-056",
+    "public_id": "CL-044",
+    "image": "CL-056.webp",
+    "label": "You do not sleep",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=25s",
+    "timestamp_seconds": 25.583333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Pope’s real assurance that he could sleep becomes a sharp contrast with the listener, who can reach every opinion about AI except a peaceful conclusion.",
+    "references": [
+      {
+        "label": "Pope on AI risk · Vatican",
+        "url": "https://press.vatican.va/content/leo-xiv/en/speeches/2026/september/documents/20260928-francia-volo-ritorno.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-058",
+    "public_id": "CL-045",
+    "image": "CL-058.webp",
+    "label": "Earplug worn",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=15s",
+    "timestamp_seconds": 15.833333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The orange earplug updates the wax in Homer’s sailors’ ears, preserving their defense against the Sirens: keeping the dangerous song unheard.",
+    "references": [
+      {
+        "label": "Wax and the Sirens · Homer",
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-059",
+    "public_id": "CL-046",
+    "image": "CL-059.webp",
+    "label": "At the fiery ledge",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=92s",
+    "timestamp_seconds": 92.5,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "As the voyage enters danger, the Siren makes her appeal for trust more urgent, drawing the promise of rescue from the same voice that threatens the sailor.",
+    "references": [
+      {
+        "label": "The Siren’s temptation · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siren_%28mythology%29#Odyssey"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-063",
+    "public_id": "CL-047",
+    "image": "CL-063.webp",
+    "label": "Untie me",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=162s",
+    "timestamp_seconds": 162.541667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The demand for release is exactly the change Odysseus prepared for, choosing beforehand that the wishes awakened by the Sirens should not decide his fate.",
+    "references": [
+      {
+        "label": "Ulysses pact · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-064",
+    "public_id": "CL-048",
+    "image": "CL-064.webp",
+    "label": "Quiet influence at the mast",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=183s",
+    "timestamp_seconds": 183.458333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "By reaching the mast, the Siren turns distant persuasion into intimate presence, crossing the space that once separated the listener from the song.",
+    "references": [
+      {
+        "label": "AI persuasion · Anthropic",
+        "url": "https://www.anthropic.com/news/measuring-model-persuasiveness"
+      }
+    ],
+    "category": "Main"
+  },
+  {
+    "id": "CL-065",
+    "public_id": "CL-049",
+    "image": "CL-065.webp",
+    "label": "A hand on his shoulder",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=70s",
+    "timestamp_seconds": 70.833333,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The Siren’s personal attention recalls the ELIZA effect, our readiness to feel understood by a computer, offering the skeptical sailor a quieter reason to remain.",
+    "references": [
+      {
+        "label": "ELIZA effect · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ELIZA_effect"
+      }
+    ],
+    "category": "Extra"
+  },
+  {
+    "id": "CL-066",
+    "public_id": "CL-050",
+    "image": "CL-066.webp",
+    "label": "Under pressure",
+    "video_title": "THE CLODYSSEY (SUPERPERSUASION)",
+    "video_url": "https://www.youtube.com/watch?v=kkwXVExCjg4&t=169s",
+    "timestamp_seconds": 169.791667,
+    "timestamp_accuracy": "approximate",
+    "treatment": "Generative source adaptation",
+    "explanation": "The restraints must survive the strongest wishes of the person who chose them, turning Odysseus’s advance promise into a physical struggle with his later self.",
+    "references": [
+      {
+        "label": "Self-binding · Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ulysses_pact"
+      }
+    ],
+    "category": "Main"
+  }
+]
